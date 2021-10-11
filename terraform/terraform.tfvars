@@ -1,3 +1,3 @@
-rgname   = "TerraformDemo1"
+rgname   = "TerraformDemo"
 location = "East US"
 sname    = "devopsguru190"
