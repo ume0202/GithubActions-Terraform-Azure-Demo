@@ -1,7 +1,7 @@
 terraform {
   backend "azurerm" {
-    resource_group_name  = "GithubTerraformAzureDemo1"
-    storage_account_name = "gaterraformdemo1"
+    resource_group_name  = "GithubTerraformAzureDemo2"
+    storage_account_name = "gaterraformdemo2"
     container_name       = "tfsfile"
     key                  = "dev.terraform.tfstate"
   }
