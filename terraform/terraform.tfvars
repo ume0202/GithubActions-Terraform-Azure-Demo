@@ -1,3 +1,3 @@
 rgname   = "GithubTerraformAzureDemo"
 location = "East US"
-sname    = "gaterraformdemo"
+sname    = "gaterraformdemo1"
